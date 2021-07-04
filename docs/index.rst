@@ -3,17 +3,17 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to rtd-github-pages's documentation!
-============================================
+Benvenuto nella documentazione delle rtd-github-pages
+=====================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Sommario:
 
    autodoc
 
 
-Indices and tables
+Indice
 ==================
 
 * :ref:`genindex`
